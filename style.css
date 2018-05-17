@@ -1,0 +1,41 @@
+
+.nav-wrapper {
+  background-color: orange;
+}
+
+.about {
+  width: auto;
+  height: 500px;
+  background-color: #ee6e73;
+  background-image: url("images/title-bg1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.space {
+  margin: auto;
+  color: white;
+}
+
+.img_size {
+  width: 350px;
+  height: 250px;
+}
+
+.lunch_img {
+  width: 250px;
+  height: 200px;
+}
+
+.dinner_img {
+  width: 225px;
+  height: 200px;
+}
+
+.div2 {
+  margin: 10px;
+  display: flex;
+  justify-content: space-around;
+}
